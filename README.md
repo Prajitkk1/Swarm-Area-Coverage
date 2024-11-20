@@ -38,3 +38,19 @@ This project implements an efficient **robot path planning system** for covering
 - The current locations are obtained from the work Guastella et al. **Complete coverage path planning for aerial vehicle flocks deployed in outdoor environments.** and Collins et al. ** Scalable Coverage Path Planning of Multi-Robot Teams for Monitoring Non-Convex Areas**
 - Required Libraries: numpy, matplotlib, shapely, scikit-learn
 - Cell size indicates the FoV of the UAV or the the square size in which the area should be discretized. 
+
+## Citing
+
+If you use *Swarm-Area-Coverage* in your research, please cite it using the following Bibtex entry:
+
+```bibtex
+@software{prajit_2024_14190023,
+  author       = {Prajit, Krisshna Kumar},
+  title        = {Prajitkk1/Swarm-Area-Coverage: v1.0},
+  month        = nov,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.14190023},
+  url          = {https://doi.org/10.5281/zenodo.14190023}
+}
